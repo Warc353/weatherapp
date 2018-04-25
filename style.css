@@ -1,0 +1,10 @@
+body {
+    background-color:lightblue;
+}
+#placeholderText{
+    text-align: center;
+    margin-bottom:10px;
+}
+.container{
+ margin-top: 25%; 
+}
